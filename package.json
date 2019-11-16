@@ -11,7 +11,7 @@
   "dependencies": {
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "babel-register": "^6.26.0",
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.5.2",
     "hapi": "^17.4.0",
     "inert": "^5.1.0",
     "joi": "^13.2.0",
